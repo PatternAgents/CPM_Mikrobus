@@ -1,0 +1,7 @@
+Partlist exported from U:/moxon/My Documents/eagle/PatternAgents/CPM_Modules/CPM_Mikrobus/CPM_Mikrobus/cpm_mikrobus.sch at 7/4/2013 11:50:09 AM
+
+Part Value              Device             Package             Description               MF      MPN       OC_FARNELL OC_NEWARK
+J1   SULLINS_SCS        MA20-2             MA20-2              40 PIN HEADER             Sullins PBC20DBAN unknown    unknown                            
+MB1  MIKROBUS_SOCKET    MIKROBUS_SOCKET    MIKROBUS_SOCKET                                                                     
+MB2  MIKROBUS_SOCKET    MIKROBUS_SOCKET    MIKROBUS_SOCKET                                                                     
+                                             
