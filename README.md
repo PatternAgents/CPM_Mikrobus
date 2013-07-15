@@ -3,8 +3,8 @@ CPM Mikrobus Adaptor
 
 PatternAgents CPM Mikrobus Adaptor
 
-[![PatternAgents CPM Mikrobus Adaptor](http://www.patternagent.com/projects/CPM_Mikrobus/assets/CPM_Mikrobus_model.png)  
-*PatternAgents CPM Mikrobus Adaptor*](http://www.patternagent.com/projects/CPM_Mikrobus)
+[![PatternAgents CPM Mikrobus Adaptor](http://www.patternagent.com/img/project/cpm_microbus/CPM_Mikrobus_model.png)  
+*PatternAgents CPM Mikrobus Adaptor*](http://www.patternagent.com/projects/cpm_mikrobus.html)
 
 The "CPM Mikrobus Adaptor" board is designed to enable Cypress PSoC development boards to utilize Mikrobus peripherals.
 
